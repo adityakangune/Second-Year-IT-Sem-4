@@ -1,0 +1,16 @@
+postgre-
+ordbms
+free and opensource
+compatible woth ubuntu, mac, win etc
+
+
+Oracle - 
+RDBMS
+Structural
+Grid computing
+
+MySQL-
+Relational
+Structured
+Cloud Computing
+Free and Open source
